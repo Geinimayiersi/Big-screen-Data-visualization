@@ -15,3 +15,7 @@ npm run dev
 
 浏览器访问
 http://localhost:8080
+
+
+用户名 admin
+密码 123456
